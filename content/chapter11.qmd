@@ -90,7 +90,7 @@ from keras.layers import Dense, Input, GlobalMaxPooling1D, Conv1D, Embedding
 from keras.models import Model
 from tensorflow.keras.optimizers import RMSprop
 from keras_preprocessing.sequence import pad_sequences
-from keras.preprocessing.text import Tokenizer
+from keras_preprocessing.text import Tokenizer 
 from gensim.models.keyedvectors import KeyedVectors
 
 # Topic Modeling
