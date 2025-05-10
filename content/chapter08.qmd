@@ -31,7 +31,7 @@ In this chapter, we use the Python package *statsmodels* for classical statistic
 ## Python code
 ```{python chapter08install-python}
 #| eval: false
-!pip3 install pandas statsmodels sklearn
+!pip3 install pandas statsmodels scikit-learn #sklearn PyPI package deprecated, though still valid for importing
 ```
 ## R code
 ```{r chapter08install-r}
